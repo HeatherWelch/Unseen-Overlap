@@ -1,5 +1,7 @@
 # Unseen-Overlap
 Code repository to support "Unseen overlap between fishing vessels and top predators in the northeast Pacific"  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10553257.svg)](https://doi.org/10.5281/zenodo.10553257)  
+
 
 ## Relevant papers  
 Welch, Heather, et al. "Hot spots of unseen fishing vessels." Science Advances 8.44 (2022): eabq2109.  
