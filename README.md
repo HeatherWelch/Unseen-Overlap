@@ -16,5 +16,5 @@ Kroodsma, David A., et al. "Tracking the global footprint of fisheries." Science
 
 ## Datasets
 1. AIS_metrics.csv: spatially allocated observed and unseen fishing vessel activity in the northeast Pacific
-2. Species_metrics.csv: spatially and temporally joined observed and unseen fishing vessel activity and top predator distributions in the northeast Pacfic  
+2. Species distribution datasets (n=5; [species].csv): distribution information for albatrosses, sooty shearwaters, tunas, sharks, mammals and leatherbacks     
 
